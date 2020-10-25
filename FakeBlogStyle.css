@@ -1,0 +1,99 @@
+/*CODED BY TRAVIS JEPSON 2020*/
+h1
+{
+    color: rgb(11, 52, 0);
+    margin-left: 30px;
+    /* text-size-adjust: 20px; */
+    /* font-style: bold; */
+    font-size: 40px;
+    font-family: 'Helvetica Neue', sans-serif;
+    text-shadow: tomato;
+}
+h2
+{
+    
+    color: rgb(11, 52, 0);
+}
+h3
+{
+   /* IF YOU WANT TO RIGHT THEN COMMENT IT BACK */
+    /* text-align: right;
+    padding-right: 20px; */
+    color: rgb(19, 85, 0);
+    margin-left: 30px;
+}
+p
+{
+    font-family: 'Helvetica Neue', bold;
+}
+
+
+body
+{
+    background-color: rgb(242, 242, 242);
+}
+
+.introHeaderTOP
+{
+background-color: rgb(180, 219, 214);
+padding-bottom: 10px;
+padding-top: 10px;
+border-radius: 25px;
+padding-left: 30px;
+border-style:solid;
+  border-color:#004205;
+  border-width:15px;
+}
+
+
+.textBoxOutline
+{
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 0px;
+margin-right: 0px;
+  border-style:solid;
+  border-color:#ffffff;
+  border-width:5px;
+  padding-left:15px;
+  padding-right:20px;
+  padding-bottom:10px;
+  padding-top:20px;
+text-align:justify;
+text-indent: 40px;
+ 
+/* height: 220px; WILL BE SET BY MARGINS SO DO NOT MESS WITH THIS AS TEXT DETERMINES*/ 
+border-radius: 20px;
+background-color: rgb(225, 225, 225);   /* adds a raduis */
+}
+
+.buttons
+{
+    /* THIS CONTROLS THE COLORS */
+border-color:#ffffff;
+background-color: rgb(222, 213, 91);
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 15px;
+padding-right: 15px;
+border-width:8px;
+display: ;
+border-radius: 15px;
+font-weight: bold;
+}
+
+.buttonsBONUS
+{
+    /* THIS CONTROLS THE BUTTONCOLORS */
+border-color:#ffe522;
+background-color: rgb(185, 40, 40);
+padding-top: 11px;
+padding-bottom: 11px;
+padding-left: 18px;
+padding-right: 18px;
+border-width:8px;
+display: ;
+border-radius: 15px;
+font-weight: bold;
+color: rgb(237, 237, 253);  /* THIS CONTROLS FONT COLOR */
+}
